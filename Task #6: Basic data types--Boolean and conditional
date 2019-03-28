@@ -1,0 +1,5 @@
+function trueOrFalse(val){
+  if (val > 0)    return "true"; 
+  else if (val = Number.isNaN)    return "false";
+  else return "false";
+}
