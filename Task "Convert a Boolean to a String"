@@ -1,0 +1,5 @@
+// https://www.codewars.com/kata/convert-a-boolean-to-a-string/train/javascript?fbclid=IwAR0Uth9IDv_foM1u6zZIGyeWvdO1dDRh19kuwAsUvZsIl-eCcL4OZZlGeIc
+function booleanToString(b){
+  if (b = "true") return "true"; 
+  else if (b = "false") return "false";
+}
