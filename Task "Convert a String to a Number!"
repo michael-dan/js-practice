@@ -1,0 +1,4 @@
+var stringToNumber = function(str){
+  var result = parseFloat(str);
+  return result;
+}
